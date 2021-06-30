@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Water](https://www.pexels.com/photo/close-up-photography-of-water-flow-612341/)
